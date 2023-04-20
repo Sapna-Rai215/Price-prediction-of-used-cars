@@ -1,14 +1,14 @@
 # Price-prediction-of-used-cars
 
-# Car Price Prediction
+## Car Price Prediction
 
-## Introduction
+### Introduction
 
 * SWIPECAR, is an American company that buys and sells second hand cars.
 * They initiated their business in the late 80s and have gained huge popularity over the years.
 * The company clients are local and foreign customers who seek to buy and sell second hand cars.
 
-## Current Scenario
+### Current Scenario
 
 * Company has started facing loss in business due to the technical advancements.
 * There are several competitors in the market who have been using enhanced techniques.
@@ -16,7 +16,7 @@
 * These traditional measures include weight analysis, condition of parts and build year.
 * They are looking for a more robust way to estimate the price of old cars.
 
-##  Problem Statement
+###  Problem Statement
 
 The current process suffers from the following problems:
 
